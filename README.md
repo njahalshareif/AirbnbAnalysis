@@ -4,17 +4,17 @@
 
 The analysis in the notebook includes:
 
-1. *Data Cleaning*:
+1. **Data Cleaning**:
    - Handling missing values
    - Data type conversions
    - Removing duplicates
 
-2. *Exploratory Data Analysis (EDA)*:
+2. **Exploratory Data Analysis (EDA)**:
    - Summary statistics
    - Distribution of key variables
    - Correlation analysis
 
-3. *Visualizations*:
+3. **Visualizations**:
    - Histograms and bar charts
    - Scatter plots
    - Heatmaps
